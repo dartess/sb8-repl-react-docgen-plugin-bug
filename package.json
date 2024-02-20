@@ -1,0 +1,9 @@
+{
+  "scripts": {},
+  "devDependencies": {
+    "@storybook/react": "^8.0.0-beta.3",
+    "@storybook/react-vite": "^8.0.0-beta.3",
+    "sass": "^1.71.0",
+    "storybook": "^8.0.0-beta.3"
+  }
+}
